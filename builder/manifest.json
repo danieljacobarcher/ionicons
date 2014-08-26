@@ -2213,6 +2213,14 @@
       "name": "social-skype-outline"
     },
     {
+      "code": "0xf282",
+      "name": "social-snapchat"
+    },
+    {
+      "code": "0xf28e",
+      "name": "social-snapchat-outline"
+    },
+    {
       "code": "0xf241",
       "name": "social-tumblr"
     },
